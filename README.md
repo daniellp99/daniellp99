@@ -33,10 +33,3 @@ Always passionate about solving problems!!!
 
 <a href="https://github.com/daniellp99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellp99&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/daniellp99/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellp99&repo=portfolio&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/daniellp99/odoo-client" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellp99&repo=odoo-client&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/daniellp99/exchange-rate-calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellp99&repo=exchange-rate-calculator&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/daniellp99/pysnake" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellp99&repo=pysnake&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
