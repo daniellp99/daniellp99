@@ -7,9 +7,9 @@ Web Developer
 Always passionate about solving problems!!!
 
 * 🌍  I'm based in Cuba
-* 🖥️  See my portfolio at [daniellp on Vercel](http://portfolio-nine-red-51.vercel.app/)
+* 🖥️  See my portfolio at [daniellp on Vercel](https://daniellp99.vercel.app/)
 * ✉️  You can contact me at [dalejandrolp99@gmail.com](mailto:dalejandrolp99@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://portfolio-nine-red-51.vercel.app/)
+* 🚀  I'm currently working on [My Portfolio](https://daniellp99.vercel.app/)
 * 🧠  I'm learning React/NextJs
 * 🤝  I'm open to collaborating on interesting NextJs project
 
